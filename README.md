@@ -6,19 +6,20 @@
 ---
 
 ## 🚀 Tech Stack
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png" title="Python" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/c-sharp-logo.png" title="C#" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/vue-js.png" title="Vue.js" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/laravel.png" title="Laravel" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/php.png" title="PHP" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/flutter.png" title="Flutter" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/dart.png" title="Dart" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="SQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" width="50" height="50"/>
 </p>
 
 

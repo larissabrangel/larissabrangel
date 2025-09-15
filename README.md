@@ -20,6 +20,7 @@
   <img src="https://img.icons8.com/color/48/mysql-logo.png" title="SQL" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript" width="50" height="50"/>
 </p>
 
 

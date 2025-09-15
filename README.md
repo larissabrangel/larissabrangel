@@ -28,14 +28,13 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larissabrangel&show_icons=true&theme=tokyonight)  
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=larissabrangel&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=larissabrangel&theme=tokyonight)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=larissabrangel&theme=tokyonight)
 
 
 ---
 
-## 🐍 Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/larissabrangel/larissabrangel/output/github-contribution-grid-snake.svg)
+## 📈 Contributions
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=larissabrangel&theme=tokyo-night)
 
 ---
 

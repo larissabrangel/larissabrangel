@@ -35,7 +35,7 @@
 ---
 
 ## 🐍 Contribution Graph
-![Snake animation](https://github.com/larissabrangel/larissabrangel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/larissabrangel/larissabrangel/output/github-contribution-grid-snake.svg)
 
 ---
 

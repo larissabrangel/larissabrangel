@@ -31,10 +31,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larissabrangel&show_icons=true&theme=tokyonight)  
 
 <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissabrangel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
+  align="left"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissabrangel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+  alt="Github Stats"
+/>
 
 
 ---

@@ -28,7 +28,7 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larissabrangel&show_icons=true&theme=tokyonight)  
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=larissabrangel&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissabrangel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---

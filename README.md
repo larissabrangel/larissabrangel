@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🎓 Information Systems student @ IFES  
-💻 Full Stack Developer (in training)  
+💻 Full Stack Developer
 
 ---
 
@@ -32,10 +32,9 @@
 
 <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzohubner&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissabrangel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
-
 
 ---
 

@@ -13,7 +13,7 @@
   <img src="https://img.icons8.com/color/48/c-sharp-logo.png" title="C#" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/vue-js.png" title="Vue.js" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/laravel.png" title="Laravel" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" title="Laravel" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/php.png" title="PHP" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/flutter.png" title="Flutter" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/dart.png" title="Dart" width="50" height="50"/>

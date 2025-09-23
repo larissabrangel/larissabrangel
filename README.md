@@ -3,7 +3,7 @@
 🎓 Information Systems student @ IFES  
 💻 Full Stack Developer
 
-### 📫 Connect with me
+#### 📫 Connect with me
 <p>
   <a href="https://www.linkedin.com/in/larissa-rangel-637458250/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" style="border-radius:10px;" />
@@ -28,9 +28,11 @@
   <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/linux.png" title="Linux" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/docker.png" title="Docker" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="50" height="50"/>
 </p>
-
-
 
 ---
 

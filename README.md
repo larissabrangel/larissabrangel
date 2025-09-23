@@ -3,6 +3,13 @@
 🎓 Information Systems student @ IFES  
 💻 Full Stack Developer
 
+## 📫 Connect with me
+<p>
+  <a href="https://www.linkedin.com/in/larissa-rangel-637458250/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" style="border-radius:10px;" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 Tech Stack
@@ -31,19 +38,4 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larissabrangel&show_icons=true&theme=tokyonight)  
-
-
----
-
-## 📈 Contributions
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=larissabrangel&theme=tokyo-night)
-
----
-
-## 📫 Connect with me
-<p>
-  <a href="https://www.linkedin.com/in/larissa-rangel-637458250/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" style="border-radius:10px;" />
-  </a>
-</p>
 

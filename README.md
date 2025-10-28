@@ -40,4 +40,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larissabrangel&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larissabrangel&show_icons=true&theme=tokyonight&cache_seconds=1800)  
+
+![GitHub PRs Merged](https://github-readme-stats.vercel.app/api?username=larissabrangel&show_icons=true&count_private=true&theme=tokyonight&hide=stars,commits,issues)

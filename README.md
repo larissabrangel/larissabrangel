@@ -27,13 +27,12 @@
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=dart" title="Dart" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=linux" title="Linux" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="50" height="50"/>
 </p>
 
 ---
